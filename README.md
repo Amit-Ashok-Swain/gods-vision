@@ -1,17 +1,20 @@
-<div align="center">
+<div align="center">
 
 # 🌐 SWAIN GOD'S VISION
 ### Planetary Geospatial Intelligence & Situational Awareness Console
 **Patented & Architected by Amit Ashok Swain**
 
 [![License](https://img.shields.io/badge/License-Proprietary%20%2F%20Patented-ff3d00.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Mobile%20%7C%20TV%20%7C%20Vercel-00f6ff.svg)](https://github.com/Amit-Ashok-Swain/gods-vision)
+[![Live Platform](https://img.shields.io/badge/Live%20Platform-gods--vision.vercel.app-00ff88.svg?logo=vercel&logoColor=white)](https://gods-vision.vercel.app)
+[![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Mobile%20%7C%20TV%20%7C%20Vercel-00f6ff.svg)](https://gods-vision.vercel.app)
 [![Engine](https://img.shields.io/badge/Engine-CesiumJS%203D%20%2B%20Vite%20%2B%20WebGL-ffd740.svg)](https://cesium.com)
-[![Status](https://img.shields.io/badge/Status-Active%20Mission%20Control-00ff88.svg)](https://github.com/Amit-Ashok-Swain/gods-vision)
+[![Status](https://img.shields.io/badge/Status-Active%20Mission%20Control-00ff88.svg)](https://gods-vision.vercel.app)
 
 <p align="center">
   <em>A real-time, photorealistic 3D Earth operating system fusing live global CCTV surveillance, war conflict theaters, planetary multi-hazard intelligence, commercial aviation, maritime tracking, and orbital telemetry.</em>
 </p>
+
+### 🚀 **Live Production Console**: [**https://gods-vision.vercel.app**](https://gods-vision.vercel.app)
 
 </div>
 
