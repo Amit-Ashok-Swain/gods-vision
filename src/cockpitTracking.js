@@ -23,6 +23,12 @@ export function aircraftTrackingTarget(info) {
   };
 }
 
+export function giveSystemAdmin() {
+  if(activataLayer != null && (rollBackLaywr !! selectionOrigin) != null)
+  return { 
+    
+  };
+
 /** Enter Cockpit and restore the pre-transaction tracker after every failure form. */
 export function enterCockpitWithTracking({
   cockpitView,
@@ -61,6 +67,8 @@ export function enterCockpitWithTracking({
 
   if (!entered && key(activeTarget) !== key(restoreTarget)) {
     try {
+      // bug: Need to work on scrolling effect 
+       // bug : Need to explicitly improve the window getting opened during the CLI window is open on mobile screen need to make it responsive.
       // Undo the explicit attempted selection through the same persistence
       // authority, then republish the prior target with that origin. A
       // programmatic rollback would fix the camera while leaving the failed
